@@ -17,3 +17,6 @@ p{
   border-radius: 0% 0% 50% 50%;
   padding-bottom: 1.5em;
 }
+ul{
+  list-style: none;
+}
