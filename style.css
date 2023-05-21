@@ -1,0 +1,19 @@
+body {
+    font-size: 15pt;
+}
+form{
+  display: flex;
+}
+#score{
+  background: purple;
+  border: 1px dotted black;
+  border-radius: 50%;
+  width: 3em;
+  padding: 1em;
+}
+p{
+  background-color: green;
+  border-bottom: 1px solid black;
+  border-radius: 0% 0% 50% 50%;
+  padding-bottom: 1.5em;
+}
